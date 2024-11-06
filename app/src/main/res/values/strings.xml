@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="Current_year">Enter your Current year</string>
+    <string name="Birth_year">Enter your Birth year</string>
+    <string name="Current_month">Enter your Current Month</string>
+    <string name="Birth_month">Enter your Brith Month</string>
+    <string name="Result">Result</string>
+    <string name="Button">Press Me</string>
+</resources>
