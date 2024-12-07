@@ -28,4 +28,4 @@ The **Age Calculator App** is a simple Android application that helps users calc
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/AgeCalculatorApp.git
+   git clone https://github.com/NasirAkra/AgeCalculatorApp.git
